@@ -1,6 +1,6 @@
 # Biblioteca de Películas
 ## Descripción
-Generar un aplicativo para la gestión de distintas película, con el fin de ayudar a
+Generar un aplicativo para la gestión de distintas películas, con el fin de ayudar a
 cualquier administrador de negocios de películas en poder tener acceso a su
 información.
 
